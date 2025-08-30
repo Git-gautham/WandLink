@@ -1,4 +1,4 @@
-# 🪄 IoT Wand – ESP8266 Magic Controller
+# 🪄 Harry Potter Wand
 
 ## 📖 Overview
 
